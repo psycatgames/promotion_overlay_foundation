@@ -1,7 +1,7 @@
 name: promotion_overlay_foundation
 description: iOS and macOS implementation of the promotion_overlay plugin.
 repository: https://github.com/psycatgames/promotion_overlay_foundation
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: ">=2.17.1 <4.0.0"

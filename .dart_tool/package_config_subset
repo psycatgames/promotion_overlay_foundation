@@ -78,6 +78,10 @@ plugin_platform_interface
 3.0
 file:///Users/koenvestjens/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.7/
 file:///Users/koenvestjens/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.7/lib/
+promotion_overlay_platform_interface
+2.17
+file:///Users/koenvestjens/.pub-cache/hosted/pub.dev/promotion_overlay_platform_interface-1.0.0/
+file:///Users/koenvestjens/.pub-cache/hosted/pub.dev/promotion_overlay_platform_interface-1.0.0/lib/
 pub_semver
 2.17
 file:///Users/koenvestjens/.pub-cache/hosted/pub.dev/pub_semver-2.1.4/
@@ -142,8 +146,4 @@ promotion_overlay_foundation
 2.17
 file:///Users/koenvestjens/Documents/Vanilla/Development/promotion_overlay/promotion_overlay_foundation/
 file:///Users/koenvestjens/Documents/Vanilla/Development/promotion_overlay/promotion_overlay_foundation/lib/
-promotion_overlay_platform_interface
-2.17
-file:///Users/koenvestjens/Documents/Vanilla/Development/promotion_overlay/promotion_overlay_platform_interface/
-file:///Users/koenvestjens/Documents/Vanilla/Development/promotion_overlay/promotion_overlay_platform_interface/lib/
 2
