@@ -7,7 +7,11 @@ import 'package:pigeon/pigeon.dart';
   copyrightHeader: 'pigeons/copyright_header.txt',
 ))
 @HostApi(dartHostTestHandler: 'TestPromotionOverlayApi')
+
+/// The host-side implementation of the PromotionOverlayApi.
 abstract class PromotionOverlayApi {
+  /// Shows the promotion overlay with [appIdentifier] using SKOverlay
+  /// Returns true if the overlay was shown, false otherwise
   bool show(
     String appIdentifier,
     String? campaignToken,
@@ -15,6 +19,8 @@ abstract class PromotionOverlayApi {
     bool dismissOnBackground,
     int position,
   );
+
+  /// Dismisses the promotion overlay
   bool dismiss();
 }
 

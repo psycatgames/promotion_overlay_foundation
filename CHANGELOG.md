@@ -2,6 +2,10 @@
 
 * Writing tests
 
+## 1.0.2
+
+Provided better documentation, added examples
+
 ## 1.0.1
 
 Removed unused code
